@@ -7,7 +7,7 @@ Comparative Investment Analysis: HDFC Bank vs Infosys - Risk-Return Profiles & I
   performance to compare investment suitability across investor profiles
   
 • Built comparative analysis identifying HDFC Bank as lower-volatility, defensive investment suitable 
-  for risk-averse investors, and Infosys as higher-growth, higher-volatility option for aggressive investors
+  for risk-averse investors, and ICICI as higher-growth, higher-volatility option for aggressive investors
   
 • Developed sector-specific insights: Banking sector showed relative resilience while IT sector faced 
   headwinds, reflecting macroeconomic and industry cycle differences
